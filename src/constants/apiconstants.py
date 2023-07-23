@@ -2,8 +2,6 @@
 # Adding my URL constant
 import pytest
 
-
-
 def base_url():
     # Change based on the env.json - Stage, preprod, Prod
     # In future I will write a login to change the base url based on the env
